@@ -55,3 +55,17 @@ Rule-based keyword classification — no LLM, no GPU, no external APIs.
 ## LLM Used
 
 No — fully rule-based solution.
+
+## Live API
+
+Base URL
+
+https://queuestorm-ticket-classifier.onrender.com
+
+Swagger Docs
+
+https://queuestorm-ticket-classifier.onrender.com/docs
+
+Health Check
+
+https://queuestorm-ticket-classifier.onrender.com/health
